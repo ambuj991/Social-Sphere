@@ -1,7 +1,7 @@
 
 # Share Sphere - A Social Media Application
 
-Share Sphere is a feature-rich, fully responsive MERN (MongoDB, Express.js, React.js, Node.js) social media application. This project was developed from January 2022 to March 2022.
+Share Sphere is a feature-rich, fully responsive MERN (MongoDB, Express.js, React.js, Node.js) social media application.
 
 ## Project Overview
 
@@ -19,12 +19,10 @@ Share Sphere is a feature-rich, fully responsive MERN (MongoDB, Express.js, Reac
 
 - **Frontend:**
   - React.js for building user interfaces
-  - [Additional Frontend Technologies]
 
 - **Backend:**
   - Node.js and Express.js for server-side development
   - MongoDB for the database
-  - [Additional Backend Technologies]
 
 
 
